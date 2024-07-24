@@ -154,6 +154,17 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+
+# Ignore GitHub Desktop application data
+AppData/Local/GitHubDesktop/
+
+# Ignore Google Chrome user data
+AppData/Local/Google/Chrome/User Data/
+
+# Ignore all AppData
+AppData/
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
