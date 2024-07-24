@@ -1,0 +1,8 @@
+# Ignore GitHub Desktop application data
+AppData/Local/GitHubDesktop/
+
+# Ignore Google Chrome user data
+AppData/Local/Google/Chrome/User Data/
+
+# Ignore all AppData
+AppData/
